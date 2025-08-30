@@ -1,6 +1,6 @@
-# -Research-Design-and-Fabrication-of-a-Delta-Robot-for-Food-Packaging-Applications
+# Research-Design-and-Fabrication-of-a-Delta-Robot-for-Food-Packaging-Applications
 
-This is my graduation thesis in Mechatronics Engineering.
+### This is my graduation thesis in Mechatronics Engineering.
 
 You can see how it works in this video: [Watch on YouTube](https://www.youtube.com/watch?v=-C6ZjhooJgQ&t=12s)
 
